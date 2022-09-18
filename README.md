@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about cloud computing
 - 🎥 I like watching movies. 
 - 💻 I aspire to become a Data Engineer.
--
+
 
 
 <!--
