@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my skills
+- 🌱 I’m currently learning about cloud computing
+- 🎥 I like watching movies. 
+- 💻 I aspire to become a Data Engineer.
+-
+
 
 <!--
 **Faiz-Subhani99/Faiz-Subhani99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
