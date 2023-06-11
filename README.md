@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning about cloud computing
 - 🎥 I like watching movies. 
-- 💻 I aspire to become a Data Engineer.
+- 💻 I aspire to work in the Data Analytics and Engineering field.
 
 
 
